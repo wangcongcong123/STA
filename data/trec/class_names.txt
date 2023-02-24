@@ -1,0 +1,6 @@
+Abbreviation
+Description
+Entities
+Human beings
+Locations
+Numeric values

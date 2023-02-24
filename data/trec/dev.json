@@ -1,0 +1,545 @@
+{"label-coarse": 3, "label-fine": 5, "text": "What team did baseball 's St. Louis Browns become ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 0, "text": "How can I register my website in Yahoo for free ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is ethology ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 12, "text": "Where did the term `` 86ed '' come from ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Loop ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country did the Nazis occupy for 1 , CD NNS IN NNP NNP NNP .", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 2, "text": "What was the first domesticated bird ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many villi are found in the small intestine ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "In which year was New Zealand excluded from the ANZUS alliance ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is the largest snake in the world ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 25, "text": "How much money does a back injury lawsuit get ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "What crooner joined The Andrews Sisters for Pistol Packin Mama ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What sun-blasted , 14-mile wide valley is just north of the Mojave desert ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 5, "text": "What Indian tribe is F Troop perpetually doing battle with ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 9, "text": "What causes pneumonia ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 23, "text": "What therapy attempts to elicit the `` primal scream '' ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 21, "text": "What South American city has the world 's highest commercial landing field ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 18, "text": "What two European countries entered the War of American Independence against the British ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is the filmmakers collabrative ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 12, "text": "Who is Terrence Malick ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the lead actress in the movie ` Sleepless in Seattle ' ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 32, "text": "What is the size of the largest akita ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 18, "text": "What European country is home to the beer-producing city of Budweis ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 29, "text": "What board game does a `` wood-pusher '' play poorly ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 31, "text": "What is the best way to remove wallpaper ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 0, "text": "How did the tradition of best man start ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 5, "text": "Who is the leading competitor of Trans Union Company ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 35, "text": "What is the speed of the Mississippi River ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "Define the Pheonix Club ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 10, "text": "What Jewish holiday saw the start of the 1973 Mideast War ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who declared : `` I am down on whores and I shan 't stop ripping them '' ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 10, "text": "What war did Florence Nightingale tend the troops in ?", "label": "Entities"}
+{"label-coarse": 2, "label-fine": 34, "text": "What is the abbreviation of the company name ` General Motors ' ?", "label": "Abbreviation"}
+{"label-coarse": 4, "label-fine": 8, "text": "What time of day did Emperor Hirohito die ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 0, "text": "How is energy created ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 0, "text": "How is it correct to say ` qigong ' ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 1, "text": "What movie tour of the Roman empire features the admonition : `` Row well and live '' ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where must a soccer goalie stand to be permitted to handle the ball ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does the name Billie mean ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is the fastest swimmer in the world ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 9, "text": "What function does a community 's water tower serve ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of weakness ?", "label": "Entities"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does G.M.T. stand for ?", "label": "Abbreviation"}
+{"label-coarse": 0, "label-fine": 9, "text": "What 's nature 's purpose for tornadoes ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 14, "text": "What type of bridge is the Golden Gate Bridge ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What TV sitcom character had the maiden name Ethel Potter ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who kept the most famous diary in the English language ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first host of Person to Person ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 2, "text": "What was the name of Betty Boop 's dog ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country has the most time zones , with 11 ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 21, "text": "What city gained renown for its pea-soup fogs ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 12, "text": "What are the distinct physical characterstics of the Arabian horse ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the web address of the list of e-mail addresses of members of the House of Representatives ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 42, "text": "What sign is The Water Carrier the zodiacal symbol for ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 21, "text": "What Russian city boasts the Hermitage Museum ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 9, "text": "What makes a tornado turn ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first Holy Roman Emperor ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 29, "text": "What sport do you shag flies in ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who graced the airwaves with such pearls as `` Do ya lo-o-ove me ? Get naked , baby ! '' ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who portrayed portly criminologist Carl Hyatt on Checkmate ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 35, "text": "How fast is light ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 5, "text": "Whom did the Chicago Bulls beat in the 1993 championship ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 12, "text": "Who is Desmond Tutu ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 0, "text": "How can you contact play producers and promoters on-line ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 29, "text": "In what sport are these following numbers relevant : 118 , 126 , 134 , 142 , 15 , 158 , 167 , 177 , and 19 ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are amphibians ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 40, "text": "How far do you have to run if you hit a home run ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where was Lincoln assassinated ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do you get a broken cork out of a bottle ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "What was Michelangelo 's last name ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 17, "text": "What is the most heavily caffeinated soft drink ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What President-to-be was the first member of Congress to enlist following the attack on Pearl Harbor ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 23, "text": "What infectious disease is the world 's deadliest ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do fuel injectors work ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 44, "text": "What Italian liner was hijacked in 1985 ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 26, "text": "What soap was touted as being `` for people who like people '' ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 9, "text": "What is the purpose of a car bra ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 18, "text": "What is the smallest country in Africa ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who coined the term NN cyberspace `` in his novel NN Neuromancer '' ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 6, "text": "What is her profession ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is Windsor Castle ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 11, "text": "What state does Martha Stewart live in ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 11, "text": "What state in the U.S. has the most blacks ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 12, "text": "What are the living conditions in Cuba ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is actress Goldie Hawn 's current actor boyfriend ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many casinos are in Atlantic City , NJ ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many double-word-score spaces are there on a Scrabble Crossword Game board ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did Germany sign its nonaggression pact with the Soviet Union ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 22, "text": "What is the only gland in humans that can regenerate itself ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the difference between a median and a mean ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 11, "text": "What U.S. state records the least rainfall ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What was archy , and mehitabel ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 21, "text": "What Texas city got its name from the Spanish for `` yellow '' ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 18, "text": "What two countries share the Khyber Pass ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 2, "text": "What mammal of North America is the world 's longest-lived for its size ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What was the Chivington Massacre ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 29, "text": "What sport is Chris Jogis a top player of ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 9, "text": "What is Black Hills , South Dakota most famous for ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What 's the name of the temple that is located near the capital city of Laos ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What famous singing cowboy owns the California Angels baseball team ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 9, "text": "What causes someone to be ticklish ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is Smokey The Bear 's middle name ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is Candlemas Day ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 20, "text": "What does the Ouarterly Review of Doublespeak call an `` inoperative statement '' ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is Tufts University ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a pyrotechnic display ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the chemical reactivity of argon ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 27, "text": "What is the average age of a member of the team that worked on the Manhatten Project ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of hell ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 11, "text": "What are the only two states that incorporate the Confederate battle flag in their flags ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 17, "text": "What 's the Southern dish made of pigs ' small intestines ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is always trying to get the rent from Andy Capp ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 17, "text": "What soft drink is most heavily caffeinated ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 23, "text": "Which drug is commonly used to treat AIDS ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the proof that houseplants metabolize carcinogens ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 9, "text": "What prompted the co-pilot of the Enola Gay to enter only `` My God '' in his log ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the history of `` the toast '' ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 25, "text": "How much does it cost , average or whatever is available , to produce and send junk mail catalogues in the US ? , DT CD NN NN ,", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was the slinky invented ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why do people in the upper peninsula of Michagin say `` eh ? '' ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 30, "text": "What flower did Vincent Van Gogh paint ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 10, "text": "What war saw a naval battle between the luxury liners Cap Trafalgar and the Carmania ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country in Latin America is the largest one ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do you tell your parents you are dating an older man ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 31, "text": "What are the four natural aids used in riding a horse ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the Secretary of War in the Civil War during the Battle of Gettysburg ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the origin of blue for boys and pink for girls ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is typhoid fever ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who lives at 39 Stone Canyon Way ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "What are the first ten amendements passed ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What 's the difference between sleet and freezing rain ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 43, "text": "Where does the U.S. rank among world countries in area ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 26, "text": "What kind of hat does Bat Masterson wear ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "In what deodorant commercial did tenants have adjoining medicine cabinets ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where was the first restaurant ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is website of the International Court of Justice ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are amicable numbers ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is Hearst Castle , built by publisher William Randolph Hearst ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 20, "text": "What is the former name of Zimbabwe ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What National Basketball Association superstar told his story in Giant Steps ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who made the first gas engine ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where can I find examples of legal cases about the Individuals with Disabilities Education Act ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the economic impact of unemployment on the economy ?", "label": "Description"}
+{"label-coarse": 2, "label-fine": 3, "text": "What do the letters D.C. stand for in Washington , D.C. ?", "label": "Abbreviation"}
+{"label-coarse": 3, "label-fine": 5, "text": "What university was Woodrow Wilson President of ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 17, "text": "What kind of meat is Fray Bentos synonymous with ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What did Mr. Magoo flog on TV for General Electric ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Which one of the original seven Mercury program astronauts did not fly on any of the Mercury flights ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 11, "text": "What U.S. state has the most blondes ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 25, "text": "What does each of the utilities cost in Monopoly ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 14, "text": "What did 8 , CD NNS VBP TO VB NNP POS NN .", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "What sound does Olympia , Washington , overlook ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 28, "text": "What 's the most abundant element in the sun ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "What are the seven seas ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What 's the name of Popeye 's adopted son ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What 2th-century fictional character attends Pencey Prep School ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 29, "text": "What sport is played on the largest field ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 1, "text": "What Hermann Hesse book gave its name to a rock group ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What are Christopher Marlowe 's and Shakespeare 's literary contributions to English literature ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country 's capital is Lagos ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the latitude and longitude of El Paso , Texas ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "What Cherokee Indian gave his name to a tree ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many states did Richard Nixon carry in 1972 ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 20, "text": "What do I call the sons and daughters of my first cousins ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are Maid-Rites ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "What is the name of the American swimmer who won seven gold medals in the 1972 Olympics ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 2, "text": "What dog was dubbed The Mortgage Lifter ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is saltpeter ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "What composer was awarded the Medal of Honor by Franklin D. Roosevelt ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of gravity ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What wheel did Blaise Pascal invent in a search for perpetual motion ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country boasts the most dams ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who won the first World Series ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 14, "text": "What overalls are named for Dungri , a suburb of Bombay ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What Mexican leader was shot dead in 1923 ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is Santa Lucia ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 11, "text": "What populous state covers 49 , 576 square miles ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 17, "text": "What do chefs call The Master Spice ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 38, "text": "What percentage of children between the ages of two and eleven watch ` The Simpsons ' ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do I write to my Congressman ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country is the setting for Edgar Allan Poe 's The Pit and the Pendulum ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What Apollo 11 astronaut minded the store while Armstrong and Aldrin made history ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What Good Little Witch is Casper 's girlfriend ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 12, "text": "What effects do nitrates have on the environment ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "When will Jean Aeul publish her next book ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many meters are in a mile ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 26, "text": "What kind of suit did true hepcats wear in 1942 ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 0, "text": "How can I find out my Moon sign ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 23, "text": "What are all the different kinds of contraceptives ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "What Caribbean island is sometimes called Little England ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Name Randy Craft 's lawyer .", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 19, "text": "What color is `` ash '' ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 19, "text": "What three colors are on the French flag ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "What season begins with the vernal equinox ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who said : `` Old soldiers never die ; they just fade away '' ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What are the biggest Indian airports ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where did bocci originate ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do you write MLA style bibliographies for an Internet source ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 14, "text": "What does the policeman become in the Canadian edition of Monopoly ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is the fastest fish in the world ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is damage to business and government caused by bureaucracy ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 19, "text": "What color eyes are most sensitive to light ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do I impress a guy ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 18, "text": "Which country did Hitler rule ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of clouds ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 13, "text": "What is the population in India ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many feet long is a baseball pitcher 's rubber ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a gandy dancer ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Which of the following celebrities started his show-biz career as a disc jockey ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are Cobol , Fortran , and Pascal ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the US Federal Government website for Standard Industrial Classification codes , SIC , ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why do some people have two different color eyes ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 1, "text": "What Sinatra hit did he dooby dooby do in ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What award is the `` Oscar '' of advertising ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "In Waugh 's `` A Handful of Dust , '' what does the mad old man force the hero to do every afternoon ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 20, "text": "What does El Nino mean in spanish ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 27, "text": "What is the average age a horse lives ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What planet would you visit to see Bebrenia , Arcadia , and Amazonis ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 26, "text": "What brand of white rum is still made in Cuba ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where did the sport of caber-tossing originate ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 14, "text": "What did Walter Huston remove to perform in the movie The Treasure of the Sierra Madre ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 13, "text": "How much salt is in the oceans ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country , after Canada and Mexico , is closest to the U.S. ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is dew point ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do you become a dentist ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What river flows through Vienna , Budapest and Belgrade ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the conservationist who served as spokesperson for Post Grape Nuts ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 0, "text": "How does a glacier form ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 28, "text": "What fuel do airplanes use ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does palindromic mean ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is a camel hair brush actually made out of ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the all-time stock high of Apple Computer , and where can I find this information ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What Caribbean island is northeast of Trinidad ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 1, "text": "What Michelangelo sculpture is in Saint Peter 's Cathedral , Basilica , ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 23, "text": "What does Salk vaccine prevent ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What U.S. general was court-martialled for criticizing American air power ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who said : `` The victor will never be asked if he told the truth '' ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why did David Koresh ask the FBI for a word processor ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 10, "text": "What was the name of the U.S. 's first manned space program ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What were the achievements of Richard Nixon ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 2, "text": "What do peacocks mate with ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What actress holds the record for the most appearances on the cover of Life ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year was the ATM first introduced ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 12, "text": "Who is Johnny Carson ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "What book is subtitled The Preservation of Favoured Races in the Struggle for Life ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "What constellation is known as The Water Bearer ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 1, "text": "Name a Salt Lake City newspaper .", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "How large is Missouri 's population ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who killed Caesar ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "Which is the most-used computer program ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who 's won the most Oscars for costume design ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Which of the following people is not associated with Andy Warhol ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What former royal palace has served as a granary , prison , arsenal , leper colony , mint , telegraph station and whorehouse before becoming an art museum ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 1, "text": "What book opens : `` At a certain village in La Mancha , which I shall not name.. . '' ?", "label": "Entities"}
+{"label-coarse": 2, "label-fine": 34, "text": "What 's the abbreviation for limited partnership ?", "label": "Abbreviation"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who wrote : `` Poems are made by fools like me but only God can make a tree '' ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was London 's Docklands Light Railway constructed ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 21, "text": "What state capital comes last alphabetically ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 17, "text": "What beer tells us , `` Grab all the gusto you can get . '' ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 10, "text": "What phenomenon would you expect to read about in the monthly publication The Bigfoot News ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 17, "text": "What is the recipe for Eggs Benedict ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 20, "text": "What is the lens behind the iris in the eye called ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who said `` the only thing we have to fear is fear itself '' ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is the definition of `` chancery '' file in real estate ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the supreme god of Germanic religion ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 0, "text": "How does lightning travel ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is troilism ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 1, "text": "What 's the sequel to Alice 's Adventures in Wonderland ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 9, "text": "What was Al Capone finally imprisoned for , in 1931 ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is an example of a natural acid-base indicator ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the song Stairway to Heaven by Led Zeppelin about ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 17, "text": "What soft drink not only has its own video game , but was featured in its own Marvel comic book ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 40, "text": "How far out is the universe ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 23, "text": "What disease is the second-biggest killer of North Americans ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is the premier of China ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Whose kidnaping was termed The Crime of the Century ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who first broke the sound barrier ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What role do fruits play in the survival of plants ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 20, "text": "What does caliente translate to in English ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "What time of year has the most air travel ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 12, "text": "What are differences between 1980 and 1990 ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "What U.S. vice-president said : `` Some newspapers dispose of their garbage by printing it '' ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 5, "text": "Who are the nomadic hunting and gathering tribe of the Kalahari Desert in Africa ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is different about the red and black fox ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 29, "text": "The second most popular sport worldwide is what ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What did the Congress of Vienna establish ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 38, "text": "What percentage of American men are alcoholic ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 13, "text": "In South Korea , how many American Soldiers are there ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do microwaves work ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 14, "text": "What number is at 12 o 'clock on a dartboard ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 26, "text": "What operating system do IBM-compatible machines use ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Name the Ranger who was always after Yogi Bear .", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who developed potlatch ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 5, "text": "What group included Abbey Hoffman , Jerry Rubin , and Tom Hayden ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who portrayed The Cowardly Lion in The Wizard of Oz ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many calories are there in soy sauce ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 26, "text": "What product `` doubles your pleasure , doubles your fun '' ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "Where did the term `` 69 '' come from ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many people in Tucson ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "What famous British actor lost his voice after an operation in 1966 ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where can I find an Ask An Expert site ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What baseball great plugged Mr. Coffee ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 21, "text": "What city contains the district of Hell 's Kitchen ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 28, "text": "What element , from the Periodic Table , is a gas or a solid , but never a liquid ?", "label": "Entities"}
+{"label-coarse": 2, "label-fine": 3, "text": "What is DEET ?", "label": "Abbreviation"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Bulls basketball team based ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 1, "text": "Name a movie that the actress , Sandra Bullock , had a role in .", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who commanded the French forces at the Battle of Orleans ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who led the opposition when Konrad Adenauer was Chancellor in Germany ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who plays shortstop for Charlie Brown 's baseball team ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "On which dates does the running of the bulls occur in Pamplona , Spain ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 33, "text": "Ray Charles is best known for playing what instrument ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a caul ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What building built in 18 contains 327 miles of book shelves ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do hermit crabs reproduce ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 20, "text": "What 's the common name for a Japanese dwarf tree ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is hydroelectricity ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is splatterpunk ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 5, "text": "What famous meat company went out of business because it became known that the underworld had been selling them kangaroo meat ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many visitors go to the Vatican each year ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "On what avenue is the original Saks department store located ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 31, "text": "In what ways did Ivan IV support Russian expansion ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Whose biography by Maurice Zolotow is titled Shooting Star ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 10, "text": "What concerts are held in New York this week ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "In the movie Groundshog Day what is the name of the character played by Andie MacDowell ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "Name a novel written by John Steinbeck .", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do boats float ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "What ill-fated American general dragged a bull terrier named Willie through World War II ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 29, "text": "What are the titles of some R-Rated Sony Playstation games ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 25, "text": "What is the starting salary for beginning lawyers ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 28, "text": "What substance did Joseph Priestley name for its ability to erase pencil marks ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What are the limits to `` self-defense ? ''", "label": "Description"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many movies has Drew Barrymore been in ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who wrote the poem that starts `` I love your lips when they 're wet with wine and red with a warm desire '' ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do you make dumplings ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is the meaning of the name Kathryn ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do you select wine ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the king who signed the Magna Carta ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many miles is it from Frankfurt , Germany to Salzburg , Austria ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many chairs are shown in Vincent Van Gogh 's 188 work The Artist 's Room in Arles ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What are some good medical sites for information ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 23, "text": "Which infectious disease kills the most people worldwide ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 5, "text": "What university fired Angela Davis ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What 's the name of the Wilkes plantation in Gone with the Wind ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 12, "text": "What was the importance of Magellan ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is King in Alley Oop 's home of Moo ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "What 1953 film won Frank Sinatra a best supporting actor Oscar ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 12, "text": "Who is Henry Butler ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "What medium is Stuart Hamblen the first singing cowboy in ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What robust U.S. President imported his own instructor after seeing a judo match ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 17, "text": "What are all the different types of pizza ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 5, "text": "What government department did The Untouchables work for ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 39, "text": "What seven digits follow the area code in the number for long distance information ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "In what part of the world is Mozambique ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 1, "text": "What film opens with an assassin tumbling from the Seattle Space Needle ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who created Maudie Frickett ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What river runs through Liverpool ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does a red flag mean in auto racing ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What 's the longest river in Canada ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 32, "text": "How big is a baby bald eagle ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 24, "text": "What mountain range marks the border of France and Spain ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 26, "text": "What is the fastest computer ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many people did Randy Craft murder ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was the Hoover Dam constructed ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of sourness ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 20, "text": "What is the nickname of the Cleveland Indians ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 20, "text": "What do you call a date that contains sequencing numbers , like 9-8-98 ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What is the name of the deranged super-criminal Otto Octavius uses ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Whose acceptance speech of more than 3 minutes prompted a time limit on Academy Award thank-yous ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 5, "text": "Name the tree growing company .", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where did the world come from ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 8, "text": "What is Judy Garland 's date of birth ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a nematode ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is capitalism according to Max Weber ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is Bella Abzug 's sartorial trademark ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who makes chicken `` finger lickin '' good ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What director portrayed the commandant of the POW camp in 1953 's Stalag 17 ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "What British TV series inspired All in the Family ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does the word terrorism mean ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 19, "text": "What is the most popular sports car color ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 1, "text": "What Broadway show introduced the song Some Enchanted Evening ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first person to study the stars ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 5, "text": "What are the top 10 colleges in the United States in the field of engineering ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 12, "text": "What do Hank Aaron , Jimmy Stewart , and Howard K. Smith have in common ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country lies directly south of Detroit ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is `` the computer for the rest of us '' ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 12, "text": "What nuclear process takes place in an H-bomb ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 13, "text": "What 's the maximum number of clubs a golfer may use in a round ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 26, "text": "What does the Peugeot company manufacture ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 33, "text": "What instrument does Benny Carter play ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 28, "text": "What did the ancients call the four great elements ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do wasps make their nests ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is the Taj Majal made of ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 28, "text": "What does saliva consist of ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 21, "text": "What Russian city used to be called St. Petersburg and Petrograd ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What astronomer-architect designed the present St. Paul 's Cathedral in London ?", "label": "Human beings"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does snafu stand for ?", "label": "Abbreviation"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country imposed the Berlin Blockade in 1948 ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does `` saute '' mean ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is ouzo ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 29, "text": "What race is 1 , 137 miles long ?", "label": "Entities"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does the T.S. stand for in T.S. Eliot 's name ?", "label": "Abbreviation"}
+{"label-coarse": 3, "label-fine": 12, "text": "Who is William Wordsworth ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What actress starred in `` The Lion in Winter '' ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What California bridge was Don Brown the first to cross , on May 27 , 1937 ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many people have been killed in wars , armed conflicts ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the largest city in Connecticut ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 8, "text": "When did the American Civil War end ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 1, "text": "What Homerian epic chronicles events toward the end of the Trojan Wars ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why do many Native American students not complete college ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 32, "text": "How big is the Electoral College ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 9, "text": "Colin Powell is most famous for what ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the official `` zero '' of the sea level ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a `` False Moon '' ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 43, "text": "What chapter of Gone with the Wind has Rhett Butler leaving Scarlett O 'Hara ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 27, "text": "How long was the longest sneezing attack ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 23, "text": "What are the 10 plagues of Egypt ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many queen bees reign in a hive ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a `` repeating voter '' ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are dingoes ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why do pharmacists work on raised floors ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What famed river was Hernando de Soto the first European to see ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 29, "text": "What chess outcome results when a player has no legal move ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 28, "text": "What kind of substance is dextropropoxyphen napsylate ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What Democratic prankster waved the train out of the station while Richard Nixon spoke from the caboose ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 44, "text": "What was the name of the flight that Fawaz Younis hijacked ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What former African leader held his country 's boxing title for nine years ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 25, "text": "How much does one ton of cement cost ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 9, "text": "What was the claim to fame of Explorer I , launched February 1 , 1958 ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do you dunk ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "When called upon to surrender , what American general replied , `` Sir , I have not yet begun to fight . '' ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the second person ever to wear Iron Man 's armor ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 10, "text": "What was the worst hurricane ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 0, "text": "How can I get started in writing for television ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who are the top ten richest people in the world ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is kept in Fort Knox that is so valuable ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What turns blue litmus paper red ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 17, "text": "What is the only vegetable that starts with `` z '' ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of machinery ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 21, "text": "In Sinclair Lewis ' `` Main Street , '' what was the name of the typical American town ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a `` node '' in computer terms ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 18, "text": "What are the five richest countries in the world ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the 3rd president of the United States ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Name Dick Tracy 's two children .", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 11, "text": "What state in the United States covers the largest area ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many zip codes are there in the U.S. ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of lice ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 27, "text": "How long does it take different materials to decompose ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What part of Britain comprises the Highlands , Central Lowlands , and Southern Uplands ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many Marx Brothers were there ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who portrayed Field Marshal Erwin Rommel in The Desert Fox ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What direction do most baseball pitchers pitch toward ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What President became Chief Justice after his presidency ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What mayor made so many TV appearances he was asked to join AFTRA in 1984 ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 24, "text": "What are the four largest mountain ranges in the continental United States ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What actor , who had greatest fame on TV , became the father of triplets ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "What is a movie that Kevin Costner made about Sioux Indians ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of night or darkness ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is currently the most popular singer in the world ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 2, "text": "Who was the first animal into space ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What impenetrable system of French fortifications was built along the German frontier before World War II ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What 's the motto of the Boy Scouts ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 18, "text": "What two European countries are joined by the Gran San Bernardo Pass ?", "label": "Locations"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does RCA stand for ?", "label": "Abbreviation"}
+{"label-coarse": 1, "label-fine": 23, "text": "What 12-hour cold medicine uses the formula `` 6 , 6 , 12 '' in its ads ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What was the nickname of model Leslie Hornby ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many of them are in sub-Saharan Africa ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where are the busiest Amtrak rail stations in the U.S. ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many bails are there in a cricket wicket ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When is the Jimmy Buffett concert coming to the E center in Camden NJ ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is ` Last Chance for Animals ' ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many people died in the Vietnam war ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the location of Edinburgh , Scotland ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does the dot on the letter i mean ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "What six-foot temperance advocate wielded her hatchet on saloons ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What king was forced to agree to the Magna Carta ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many bottles of wine were prisoners in the Bastille allowed per day ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who wrote the sci-fi trilogy Foundation , Foundation and Empire , and Second Foundation ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What is Alice Cooper 's real name ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Name the person who burst through the screen in the Lite beer commercials .", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What U.S. vice-president killed Alexander Hamilton in a duel ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 29, "text": "What card game derived its name from biritch , or Russian Whist ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What Louisiana Senator won a seat that had been held by his father and mother ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who won Oscars for her roles in Gone with the Wind and A Streetcar Named Desire ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What writer is famous for physically putting himself into the center of his subject matter ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 6, "text": "What 's Mrs. Bridges 's job on TV 's Upstairs , Downstairs ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where 's Montenegro ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 5, "text": "What name did football 's New York Titans adopt in 1963 ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 21, "text": "Which city in China has the largest number of foreign financial companies ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 30, "text": "What common plant has a button , cap , cup , gills , and ring ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 23, "text": "Name a medicine commonly used to combat AIDS ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "What comedian was The Perfect Fool ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where do you find information about the Queensland National Competition Policy", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is the name of the disease that actress Hunter Tylo 's baby girl has ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who 's the only president buried in Washington", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 25, "text": "How much do tuberculosis combatting drugs cost ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 5, "text": "What 's the name of Pittsburgh 's baseball team ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What TV comedian worked with White Fang , Black Tooth and Pookie the Lion ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 29, "text": "What type of exercise burns the most calories ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 0, "text": "How can people from Ireland come to the U.S. , work , and then return to Ireland ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many characters are in the Chinese alphabet ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 14, "text": "What commodity 's shortage was the largest single factor in keeping North American cars off the roads during World War II ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 28, "text": "What four elements make up 90 percent of the human body ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who are the top 10 richest people in the world ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are geckos ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is cosmology ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is a fear of failure ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who followed up his first two underwater thrillers with The Girl of the Sea of Cortez ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 17, "text": "What condiment do the Dutch dip their French fries in ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 13, "text": "What is the highest number of home runs on record for any one game ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 12, "text": "Where did the marriage ceremony come from ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 1, "text": "What Morris West novel deals with Russian bishop who becomes Pope ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is Srpska Krajina ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 0, "text": "How was the Kennedy money made ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does Robert mean ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "What American naval officer broke Japan 's isolationist policy in 1853 ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 1, "text": "What 1965 film had Jack Lemmon portraying a cartoonist ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 9, "text": "What is the S&P 500 used for ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 6, "text": "What is Larry King 's occupation ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why does a wheel , e.g. a car tire , appear to spin in the opposite direction as it slows down ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What sea is Bombay on ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does the word `` opera '' mean ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 21, "text": "What U.S. city is known as The Rubber Capital of the World ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 21, "text": "The Kentucky Horse Park is close to which American city ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 14, "text": "What airport is on the Piccadilly subway line ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 5, "text": "Which police department made the largest cocaine seizure ever in Ventura County ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What king is satirized in the line : `` The King was in the countinghouse , counting all his money '' ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 9, "text": "What causes headaches ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many gallons of paint does it take to paint the Golden Gate Bridge ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 40, "text": "How deep is a fathom ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who invented panties ?", "label": "Human beings"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does CPR stand for ?", "label": "Abbreviation"}
+{"label-coarse": 3, "label-fine": 5, "text": "What corporation does Madonna advertise for ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 12, "text": "What was the effect of the Yalta Conference ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the group M People from ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the girl in Peter Sellers 's soup ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 0, "text": "How is Paraguay for vacations ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was in Death of a Salesman original movie , not 1985 ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 28, "text": "What 's the world 's most common compound ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is the shape of a football as stated in the NFL rulebook ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the origin of thank you notes ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the only person convicted in the My Lai Massacre ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What does the River Seine empty into ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 46, "text": "What money was used here ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What are my legal rights in an automobile repossession in California ?", "label": "Description"}

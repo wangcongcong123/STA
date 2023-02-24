@@ -1,0 +1,500 @@
+{"label-coarse": 4, "label-fine": 40, "text": "How far is it from Denver to Aspen ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 21, "text": "What county is Modesto , California in ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 12, "text": "Who was Galileo ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is an atom ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "When did Hawaii become a state ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 40, "text": "How tall is the Sears Building ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 5, "text": "George Bush purchased a small interest in which baseball team ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 30, "text": "What is Australia 's national flower ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why does the moon turn orange ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is autism ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 21, "text": "What city had a world fair in 1900 ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What person 's head is on a dime ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 45, "text": "What is the average weight of a Yellow Labrador ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first man to fly across the Pacific Ocean ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "When did Idaho become a state ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the life expectancy for crickets ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 28, "text": "What metal has the highest melting point ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who developed the vaccination against polio ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is epilepsy ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did the Titanic sink ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first American to walk in space ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a biosphere ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What river in the US is known as the Big Muddy ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is bipolar disorder ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is cholesterol ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who developed the Macintosh computer ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is caffeine ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What imaginary line is halfway between the North and South Poles ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is John Wayne airport ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 14, "text": "What hemisphere is the Philippines in ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 35, "text": "What is the average speed of the horses at the Kentucky Derby ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 24, "text": "Where are the Rocky Mountains ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are invertebrates ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 41, "text": "What is the temperature at the center of the earth ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When did John F. Kennedy get elected as President ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 27, "text": "How old was Elvis Presley when he died ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Orinoco River ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 40, "text": "How far is the service line from the net in tennis ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 13, "text": "How much fiber should you have per day ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many Great Lakes are there ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 30, "text": "Material called linen is made from what plant ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is Teflon ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is amitriptyline ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a shaman ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is the proper name for a female walrus ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is a group of turkeys called ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 27, "text": "How long did Rip Van Winkle sleep ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are triglycerides ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many liters in a gallon ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 5, "text": "What is the name of the chocolate company in San Francisco ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are amphibians ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who discovered x-rays ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Which comedian 's signature line is `` Can we talk '' ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is fibromyalgia ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is done with worn or outdated flags ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does cc in engines mean ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "When did Elvis Presley die ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the capital of Yugoslavia ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 21, "text": "Where is Milan ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 35, "text": "What is the speed hummingbirds fly ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the oldest city in the United States ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What was W.C. Fields ' real name ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What river flows between Fargo , North Dakota and Moorhead , Minnesota ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 17, "text": "What do bats eat ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 11, "text": "What state did the Battle of Bighorn take place in ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 12, "text": "Who was Abraham Lincoln ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 20, "text": "What do you call a newborn kangaroo ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are spider veins ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What day and month did John Lennon die ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What strait separates North America from Asia ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the population of Seattle ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 25, "text": "How much was a ticket for the Titanic ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the largest city in the world ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What American composer wrote the music for `` West Side Story '' ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Mall of the America ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is the pH scale ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 46, "text": "What type of currency is used in Australia ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 40, "text": "How tall is the Gateway Arch in St. Louis , MO ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 45, "text": "How much does the human adult female brain weigh ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first governor of Alaska ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a prism ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was the first liver transplant ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was elected president of South Africa in 1994 ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the population of China ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was Rosa Parks born ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why is a ladybug helpful ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is amoxicillin ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first female United States Representative ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are xerophytes ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 18, "text": "What country did Ponce de Leon come from ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 10, "text": "The U.S. Department of Treasury first issued paper currency for the U.S. during which war ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is desktop publishing ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 41, "text": "What is the temperature of the sun 's surface ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did Canada join the United Nations ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 5, "text": "What is the oldest university in the US ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is Prince Edward Island ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 8, "text": "Mercury , what year was it discovered ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is cryogenics ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are coral reefs ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is the longest major league baseball-winning streak ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is neurology ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who invented the calculator ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 0, "text": "How do you measure earthquakes ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 12, "text": "Who is Duke Ellington ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 21, "text": "What county is Phoenix , AZ in ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a micron ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 41, "text": "The sun 's core , what is the temperature ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is the Ohio state bird ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "When were William Shakespeare 's twins born ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the highest dam in the U.S. ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 19, "text": "What color is a poison arrow frog ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is acupuncture ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 40, "text": "What is the length of the coastline of the state of Alaska ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "What is the name of Neil Armstrong 's wife ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 30, "text": "What is Hawaii 's state flower ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who won Ms. American in 1989 ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "When did the Hindenberg crash ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 28, "text": "What mineral helps prevent osteoporosis ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "What was the last year that the Chicago Cubs won the World Series ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is Perth ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did WWII begin ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 40, "text": "What is the diameter of a golf ball ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is an eclipse ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who discovered America ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 40, "text": "What is the earth 's diameter ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Which president was unmarried ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 40, "text": "How wide is the Milky Way galaxy ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "During which season do most thunderstorms occur ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is Wimbledon ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 27, "text": "What is the gestation period for a cat ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 40, "text": "How far is a nautical mile ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the abolitionist who led the raid on Harper 's Ferry in 1859 ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does target heart rate mean ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 26, "text": "What was the first satellite to go into space ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is foreclosure ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is the major fault line near Kentucky ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Holland Tunnel ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who wrote the hymn `` Amazing Grace '' ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 6, "text": "What position did Willie Davis play in baseball ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are platelets ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is severance pay ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is the name of Roy Roger 's dog ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where are the National Archives ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is a baby turkey called ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is poliomyelitis ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 22, "text": "What is the longest bone in the human body ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is a German philosopher ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 44, "text": "What were Christopher Columbus ' three ships ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does Phi Beta Kappa mean ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is nicotine ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 20, "text": "What is another name for vitamin B1 ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who discovered radium ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are sunspots ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was Algeria colonized ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 5, "text": "What baseball team was the first to make numbers part of their uniform ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What continent is Egypt on ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the capital of Mongolia ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is nanotechnology ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "In the late 1700 's British convicts were used to populate which colony ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 11, "text": "What state is the geographic center of the lower 48 states ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is an obtuse angle ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are polymers ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "When is hurricane season in the Caribbean ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the volcano Mauna Loa ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 20, "text": "What is another astronomic term for the Northern Lights ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "What peninsula is Spain part of ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was Lyndon B. Johnson born ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is acetaminophen ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 11, "text": "What state has the least amount of rain per year ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who founded American Red Cross ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did the Milwaukee Braves become the Atlanta Braves ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 35, "text": "How fast is alcohol absorbed ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When is the summer solstice ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is supernova ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Shawnee National Forest ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 11, "text": "What U.S. state 's motto is `` Live free or Die '' ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Lourve ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was the first stamp issued ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 19, "text": "What primary colors do you mix to make orange ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 40, "text": "How far is Pluto from the sun ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What body of water are the Canary Islands in ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is neuropathy ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Euphrates River ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is cryptography ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is natural gas composed of ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is the Prime Minister of Canada ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "What French ruler was defeated at the battle of Waterloo ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is leukemia ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where did Howard Hughes die ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is the birthstone for June ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is the sales tax in Minnesota ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 40, "text": "What is the distance in miles from the earth to the sun ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 27, "text": "What is the average life span for a chicken ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was the first Wal-Mart store opened ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is relative humidity ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 21, "text": "What city has the zip code of 35824 ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 46, "text": "What currency is used in Algeria ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who invented the hula hoop ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 26, "text": "What was the most popular toy in 1957 ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is pastrami made of ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 26, "text": "What is the name of the satellite that the Soviet Union sent into space in 1957 ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 21, "text": "What city 's newspaper is called `` The Enquirer '' ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who invented the slinky ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 2, "text": "What are the animals that don 't have backbones called ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the melting point of copper ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the volcano Olympus Mons located ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the 23rd president of the United States ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 41, "text": "What is the average body temperature ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 12, "text": "What does a defibrillator do ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the effect of acid rain ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did the United States abolish the draft ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 35, "text": "How fast is the speed of light ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 11, "text": "What province is Montreal in ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 14, "text": "What New York City structure is also known as the Twin Towers ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is fungus ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 37, "text": "What is the most frequently spoken language in the Netherlands ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is sodium chloride ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 20, "text": "What are the spots on dominoes called ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many pounds in a ton ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is influenza ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is ozone depletion ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year was the Mona Lisa painted ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does `` Sitting Shiva '' mean ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is the electrical output in Madrid , Spain ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 24, "text": "Which mountain range in North America stretches from Maine to Georgia ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is plastic made of ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the population of Nigeria ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 12, "text": "What does your spleen do ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Grand Canyon ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who invented the telephone ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did the U.S. buy Alaska ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "What is the name of the leader of Ireland ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is phenylalanine ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many gallons of water are there in a cubic foot ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 14, "text": "What are the two houses of the Legislative branch ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is sonar ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "In Poland , where do most people live ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is phosphorus ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the location of the Sea of Tranquility ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 35, "text": "How fast is sound ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 11, "text": "What French province is cognac produced in ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is Valentine 's Day ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 9, "text": "What causes gray hair ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is hypertension ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is bandwidth ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the longest suspension bridge in the U.S. ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a parasite ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is home equity ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 12, "text": "What do meteorologists do ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is the criterion for being legally blind ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is the tallest man in the world ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 21, "text": "What are the twin cities ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 14, "text": "What did Edward Binney and Howard Smith invent in 1903 ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is the statue of liberty made of ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is pilates ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What planet is known as the `` red '' planet ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 40, "text": "What is the depth of the Nile river ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 20, "text": "What is the colorful Korean traditional dress called ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is Mardi Gras ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 25, "text": "Mexican pesos are worth what in U.S. dollars ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first African American to play for the Brooklyn Dodgers ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first Prime Minister of Canada ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many Admirals are there in the U.S. Navy ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 33, "text": "What instrument did Glenn Miller play ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 27, "text": "How old was Joan of Arc when she died ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does the word fortnight mean ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is dianetics ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the capital of Ethiopia ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 27, "text": "For how long is an elephant pregnant ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 0, "text": "How did Janice Joplin die ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 37, "text": "What is the primary language in Iceland ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the difference between AM radio stations and FM radio stations ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is osteoporosis ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first woman governor in the U.S. ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is peyote ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 9, "text": "What is the esophagus used for ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is viscosity ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did Oklahoma become a state ?", "label": "Numeric values"}
+{"label-coarse": 2, "label-fine": 34, "text": "What is the abbreviation for Texas ?", "label": "Abbreviation"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is a mirror made out of ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where on the body is a mortarboard worn ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What was J.F.K. 's wife 's name ?", "label": "Human beings"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does I.V. stand for ?", "label": "Abbreviation"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is the chunnel ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is Hitler buried ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are antacids ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is pulmonary fibrosis ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are Quaaludes ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is naproxen ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is strep throat ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the largest city in the U.S. ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 23, "text": "What is foot and mouth disease ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the life expectancy of a dollar bill ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 20, "text": "What do you call a professional map drawer ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are Aborigines ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is hybridization ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 19, "text": "What color is indigo ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 27, "text": "How old do you have to be in order to rent a car in Italy ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 14, "text": "What does a barometer measure ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 19, "text": "What color is a giraffe 's tongue ?", "label": "Entities"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does USPS stand for ?", "label": "Abbreviation"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did the NFL go on strike ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is solar wind ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What date did Neil Armstrong land on the moon ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was Hiroshima bombed ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Savannah River ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first woman killed in the Vietnam War ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "What planet has the strongest magnetic field of all the planets ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is the governor of Alaska ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did Mussolini seize power in Italy ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the capital of Persia ?", "label": "Locations"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Eiffel Tower ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many hearts does an octopus have ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is pneumonia ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the deepest lake in the US ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a fuel cell ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first U.S. president to appear on TV ?", "label": "Human beings"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Little League Museum ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 14, "text": "What are the two types of twins ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the brightest star ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is diabetes ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was President Kennedy shot ?", "label": "Numeric values"}
+{"label-coarse": 2, "label-fine": 3, "text": "What is TMJ ?", "label": "Abbreviation"}
+{"label-coarse": 1, "label-fine": 19, "text": "What color is yak milk ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "What date was Dwight D. Eisenhower born ?", "label": "Numeric values"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does the technical term ISDN mean ?", "label": "Abbreviation"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why is the sun yellow ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 25, "text": "What is the conversion rate between dollars and pounds ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was Abraham Lincoln born ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is the Milky Way ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is mold ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year was Mozart born ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is a group of frogs called ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 44, "text": "What is the name of William Penn 's ship ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the melting point of gold ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the street address of the White House ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is semolina ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 17, "text": "What fruit is Melba sauce made from ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is Ursa Major ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 38, "text": "What is the percentage of water content in the human body ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 45, "text": "How much does water weigh ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 10, "text": "What was President Lyndon Johnson 's reform program called ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 38, "text": "What is the murder rate in Windsor , Ontario ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is the only president to serve 2 non-consecutive terms ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the population of Australia ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who painted the ceiling of the Sistine Chapel ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 23, "text": "Name a stimulant .", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 12, "text": "What is the effect of volcanoes on the climate ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did the Andy Griffith show begin ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is acid rain ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "What is the date of Mexico 's independence ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the location of Lake Champlain ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 30, "text": "What is the Illinois state flower ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is Maryland 's state bird ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is quicksilver ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who wrote `` The Divine Comedy '' ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 35, "text": "What is the speed of light ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 40, "text": "What is the width of a football field ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 9, "text": "Why in tennis are zero points called love ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 2, "text": "What kind of dog was Toto in the Wizard of Oz ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a thyroid ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What does ciao mean ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 22, "text": "What is the only artery that carries blue blood from the heart to the lungs ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "How often does Old Faithful erupt at Yellowstone National Park ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is acetic acid ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 40, "text": "What is the elevation of St. Louis , MO ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 19, "text": "What color does litmus paper turn when it comes into contact with a strong acid ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 19, "text": "What are the colors of the German flag ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is the Moulin Rouge ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What soviet seaport is on the Black Sea ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 45, "text": "What is the atomic weight of silver ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 46, "text": "What currency do they use in Brazil ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are pathogens ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is mad cow disease ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 17, "text": "Name a food high in zinc .", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "When did North Carolina enter the union ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where do apple snails live ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are ethics ?", "label": "Description"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does CPR stand for ?", "label": "Abbreviation"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is an annuity ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who killed John F. Kennedy ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first vice president of the U.S. ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 28, "text": "What birthstone is turquoise ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first US President to ride in an automobile to his inauguration ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 27, "text": "How old was the youngest president of the United States ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was Ulysses S. Grant born ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is Muscular Dystrophy ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who lived in the Neuschwanstein castle ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is propylene glycol ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a panic disorder ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who invented the instant Polaroid camera ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a carcinogen ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is a baby lion called ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the world 's population ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is nepotism ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is die-casting ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is myopia ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the sales tax rate in New York ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 38, "text": "Developing nations comprise what percentage of the world 's population ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 24, "text": "What is the fourth highest mountain in the world ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "What is Shakespeare 's nickname ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is the heaviest naturally occurring element ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "When is Father 's Day ?", "label": "Numeric values"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does the acronym NASA stand for ?", "label": "Abbreviation"}
+{"label-coarse": 4, "label-fine": 40, "text": "How long is the Columbia River in miles ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 21, "text": "What city 's newspaper is called `` The Star '' ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is carbon dioxide ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the Mason/Dixon line ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was the Boston tea party ?", "label": "Numeric values"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is metabolism ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Which U.S.A. president appeared on `` Laugh-In '' ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 28, "text": "What are cigarettes made of ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 21, "text": "What is the capital of Zimbabwe ?", "label": "Locations"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does NASA stand for ?", "label": "Abbreviation"}
+{"label-coarse": 1, "label-fine": 30, "text": "What is the state flower of Michigan ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are semiconductors ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is nuclear power ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a tsunami ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is the congressman from state of Texas on the armed forces committee ?", "label": "Human beings"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was president in 1913 ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was the first kidney transplant ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 14, "text": "What are Canada 's two territories ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 44, "text": "What was the name of the plane Lindbergh flew solo across the Atlantic ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is genocide ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What continent is Argentina on ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 14, "text": "What monastery was raided by Vikings in the late eighth century ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is an earthquake ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where is the tallest roller coaster located ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are enzymes ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who discovered oxygen ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is bangers and mash ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is the name given to the Tiger at Louisiana State University ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where are the British crown jewels kept ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first person to reach the North Pole ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is an ulcer ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is vertigo ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is the spirometer test ?", "label": "Description"}
+{"label-coarse": 4, "label-fine": 8, "text": "When is the official first day of summer ?", "label": "Numeric values"}
+{"label-coarse": 2, "label-fine": 3, "text": "What does the abbreviation SOS mean ?", "label": "Abbreviation"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is the smallest bird in Britain ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who invented Trivial Pursuit ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 28, "text": "What gasses are in the troposphere ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 18, "text": "Which country has the most water pollution ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is the scientific name for elephant ?", "label": "Entities"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who is the actress known for her role in the movie `` Gypsy '' ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 2, "text": "What breed of hunting dog did the Beverly Hillbillies own ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the rainiest place on Earth ?", "label": "Locations"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the first African American to win the Nobel Prize in literature ?", "label": "Human beings"}
+{"label-coarse": 4, "label-fine": 8, "text": "When is St. Patrick 's Day ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 2, "text": "What was FDR 's dog 's name ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 19, "text": "What colors need to be mixed to get the color pink ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 29, "text": "What is the most popular sport in Japan ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 17, "text": "What is the active ingredient in baking soda ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was Thomas Jefferson born ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 41, "text": "How cold should a refrigerator be ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 8, "text": "When was the telephone invented ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 19, "text": "What is the most common eye color ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "Where was the first golf course in the United States ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is schizophrenia ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is angiotensin ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 5, "text": "What did Jesse Jackson organize ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 2, "text": "What is New York 's state bird ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 14, "text": "What is the National Park in Utah ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 8, "text": "What is Susan B. Anthony 's birthday ?", "label": "Numeric values"}
+{"label-coarse": 5, "label-fine": 11, "text": "In which state would you find the Catskill Mountains ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 20, "text": "What do you call a word that is spelled the same backwards and forwards ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are pediatricians ?", "label": "Description"}
+{"label-coarse": 3, "label-fine": 5, "text": "What chain store is headquartered in Bentonville , Arkansas ?", "label": "Human beings"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are solar cells ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is compounded interest ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What are capers ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is an antigen ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 46, "text": "What currency does Luxembourg use ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 14, "text": "What is the population of Venezuela ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 14, "text": "What type of polymer is used for bulletproof vests ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 46, "text": "What currency does Argentina use ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is a thermometer ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 21, "text": "What Canadian city has the largest population ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 19, "text": "What color are crickets ?", "label": "Entities"}
+{"label-coarse": 5, "label-fine": 18, "text": "Which country gave New York the Statue of Liberty ?", "label": "Locations"}
+{"label-coarse": 1, "label-fine": 26, "text": "What was the name of the first U.S. satellite sent into space ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 28, "text": "What precious stone is a form of pure carbon ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 28, "text": "What kind of gas is in a fluorescent bulb ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is rheumatoid arthritis ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 14, "text": "What river runs through Rowe , Italy ?", "label": "Locations"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is cerebral palsy ?", "label": "Description"}
+{"label-coarse": 5, "label-fine": 21, "text": "What city is also known as `` The Gateway to the West '' ?", "label": "Locations"}
+{"label-coarse": 4, "label-fine": 40, "text": "How far away is the moon ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 14, "text": "What is the source of natural gas ?", "label": "Entities"}
+{"label-coarse": 1, "label-fine": 44, "text": "In what spacecraft did U.S. astronaut Alan Shepard make his historic 1961 flight ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is pectin ?", "label": "Description"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is bio-diversity ?", "label": "Description"}
+{"label-coarse": 1, "label-fine": 31, "text": "What 's the easiest way to remove wallpaper ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 8, "text": "What year did the Titanic start on its journey ?", "label": "Numeric values"}
+{"label-coarse": 4, "label-fine": 13, "text": "How much of an apple is water ?", "label": "Numeric values"}
+{"label-coarse": 3, "label-fine": 4, "text": "Who was the 22nd President of the US ?", "label": "Human beings"}
+{"label-coarse": 1, "label-fine": 46, "text": "What is the money they use in Zambia ?", "label": "Entities"}
+{"label-coarse": 4, "label-fine": 13, "text": "How many feet in a mile ?", "label": "Numeric values"}
+{"label-coarse": 1, "label-fine": 28, "text": "What is the birthstone of October ?", "label": "Entities"}
+{"label-coarse": 0, "label-fine": 7, "text": "What is e-coli ?", "label": "Description"}
