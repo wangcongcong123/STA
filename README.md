@@ -18,3 +18,15 @@ nohup python train_humaid.py > train_humaid_self_2021-2030.out &
 ```
 
 To run other variants such as `STA-noself`, just change the variable `self_control` from `True` to `False` in the corresponding scripts.
+* It is expected to obtain better results using larger generation and downstream models such as `roberta-large` and `t5-large` in the scripts
+
+
+### To cite this paper
+```
+@article{wang2023sta,
+  title={STA: Self-controlled Text Augmentation for Improving Text Classification},
+  author={Congcong Wang, Gonzalo Fiz Pontiveros, Steven Derby and Tri Kurniawan Wijaya},
+  journal={arXiv preprint arXiv:2302.12784},
+  year={2023}
+}
+```
