@@ -1,4 +1,4 @@
-## The code for the paper "STA: Self-controlled Text Augmentation for Improving Text Classification"
+## The code for the paper ["STA: Self-controlled Text Augmentation for Improving Text Classification"](http://arxiv.org/abs/2302.12784)
 
 To run this code, make sure you have
 
